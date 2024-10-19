@@ -1,0 +1,2 @@
+// index.js
+alert("Welcome to the Salad Bar Chat!");
